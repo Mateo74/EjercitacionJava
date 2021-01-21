@@ -93,6 +93,10 @@ public class EjerciciosBasicos {
         scanner.close();
     }
     public static void main(String[] args) {
+        //ej1();
+        //ej2();
+        //ej3();
+        //ej4();
         ej5();
     }
 }
